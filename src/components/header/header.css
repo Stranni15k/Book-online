@@ -1,0 +1,13 @@
+.navigation-item {
+    color: orange;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 32px;
+    margin-left: 4%;
+    white-space: nowrap;
+}
+
+.navigation-item:hover {
+    font-weight: 700;
+    color: orange;
+}
